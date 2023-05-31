@@ -5,7 +5,7 @@ emociones y descubrimientos.
 
 Hasta que un día algo le sucedió, nunca pensó que enfrentaría un desafío tan grande. Mientras exploraba una antigua 
 ruina perdida en lo profundo de la selva, __________ (nombre del personaje) se encontró con una criatura mágica. 
-Esta criatura, con escamas brillantes y alas majestuosas, era un dragón ancestral llamado __________ (nombre del dragón).
+Esta criatura, con escamas brillantes y alas majestuosas, era un dragón ancestral llamado SPRINGBOOT (nombre del dragón).
 
 El dragón, con voz imponente pero serena, le reveló a __________ (nombre del personaje) que estaba destinado/a a una 
 misión trascendental. El equilibrio del reino mágico dependía de encontrar el artefacto sagrado perdido conocido 
